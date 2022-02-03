@@ -93,28 +93,14 @@ function Index() {
   return (
     <div className="auth">
       <div className="auth-container">
-        <p>SignUp/ Login through </p>
+        <p>SignUp through </p>
         <div className="sign-options">
           <div onClick={handleGoogleSignIN} className="single-option">
             <img
               alt="google"
               src="https://image.flaticon.com/icons/png/512/281/281764.png"
             />
-            <p>{loading ? "Signing in..." : "Login with Google"}</p>
-          </div>
-          <div className="single-option">
-            <img
-              alt="github"
-              src="https://image.flaticon.com/icons/png/512/270/270798.png"
-            />
-            <p>Login with Github</p>
-          </div>
-          <div className="single-option">
-            <img
-              alt="facebook"
-              src="https://image.flaticon.com/icons/png/512/733/733547.png"
-            />
-            <p>Login with Facebook</p>
+            <p>{loading ? "Signing in..." : "SignUp with Google"}</p>
           </div>
         </div>
 
