@@ -72,7 +72,6 @@ function Header() {
               onClick={() => auth.signOut()}
             />
             <InboxIcon />
-            <HelpIcon />
             <svg
               aria-hidden="true"
               class="svg-icon iconStackExchange"
