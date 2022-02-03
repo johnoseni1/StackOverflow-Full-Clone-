@@ -52,7 +52,6 @@ function Header() {
             />
           </Link>
           {/* <a href="/">
-            
           </a> */}
         </div>
         <div className="header-middle">
