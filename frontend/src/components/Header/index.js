@@ -54,8 +54,6 @@ function Header() {
           {/* <a href="/">
             
           </a> */}
-
-          <h3>Products</h3>
         </div>
         <div className="header-middle">
           <div className="header-search-container">
