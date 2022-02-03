@@ -1,8 +1,15 @@
 {
-  "name": "stackoverflow-clone",
+  "name": "Unofficial-stackoverflow",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://127.0.0.1:80",
+
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
@@ -23,12 +30,6 @@
     "react-scripts": "4.0.3",
     "react-tag-input-component": "^1.0.7",
     "web-vitals": "^1.1.2"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
