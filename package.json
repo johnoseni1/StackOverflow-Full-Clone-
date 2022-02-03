@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akkySrivastava/stackoverflow-clone-mern.git"
+    "url": "git+https://github.com/johnoseni1/StackOverflow-Full-Clone-"
   },
-  "author": "Code with akky",
+  "author": "John Oseni",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/akkySrivastava/stackoverflow-clone-mern/issues"
+    "url": "https://github.com/johnoseni1/StackOverflow-Full-Clone-/issues"
   },
-  "homepage": "https://github.com/akkySrivastava/stackoverflow-clone-mern#readme",
+  "homepage": "https://github.com/johnoseni1/StackOverflow-Full-Clone-#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "body-parser": "^1.19.0",
