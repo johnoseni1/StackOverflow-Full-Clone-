@@ -13,7 +13,7 @@ import Auth from "./components/Auth";
 import { useDispatch, useSelector } from "react-redux";
 import { login, logout, selectUser } from "./feature/userSlice";
 import { useEffect } from "react";
-import { auth } from "./firebase";
+import { auth } from "./firebase"
 
 function App() {
   const user = useSelector(selectUser);

@@ -93,7 +93,7 @@ function Index() {
   return (
     <div className="auth">
       <div className="auth-container">
-        <p>Add another way to log in using any of the following services. </p>
+        <p>SignUp/ Login through </p>
         <div className="sign-options">
           <div onClick={handleGoogleSignIN} className="single-option">
             <img
