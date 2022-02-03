@@ -1,0 +1,26 @@
+body {
+  padding: 30px;
+}
+
+.icons {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  grid-gap: 20px;
+  font-size: 40px;
+  padding: 20px;
+}
+
+.navItems {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  width: 230px;
+}
+
+.sidebar {
+  width: 164px;
+}
+
+.extra {
+  width: 324px;
+}
