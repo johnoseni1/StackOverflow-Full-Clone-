@@ -1,20 +1,14 @@
 {
-  "name": "stackoverflow-api",
+  "name": "Api_Backend",
   "version": "1.0.0",
-  "description": "Stackoverflow Clone Server",
+  "description": "Backend",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
     "test": "jest"
   },
-  "keywords": [
-    "Stackoverflow",
-    "Clone",
-    "Rest",
-    "MERN"
-  ],
-  "author": "Salih Ozdemir",
+  "author": "John Oseni",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
